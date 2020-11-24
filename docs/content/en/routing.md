@@ -86,7 +86,7 @@ Make sure that you have a `defaultLocale` defined, especially if using **prefix_
 
 <alert type="warning">
 
-If on `Nuxt` version lower than 2.10.2, and using strategy `prefix_except_default` or `prefix_and_default`, make sure that that the locale matching `defaultLocale` is last in the array of locales. For example:
+If on `Nuxt` version lower than 2.10.2, and using strategy `prefix_except_default` or `prefix_and_default`, make sure that the locale matching `defaultLocale` is last in the array of locales. For example:
 
 </alert>
 
